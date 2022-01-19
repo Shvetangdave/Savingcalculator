@@ -1,0 +1,19 @@
+body
+{
+ text-align: center;
+ background-image: linear-gradient(rgb(250, 202, 8),rgb(252, 252, 251),rgb(255, 255, 255),rgb(9, 252, 171));
+   
+}
+
+#info{
+    background-color: rgb(128, 255, 0);
+
+}
+
+#cont{
+    float: left;
+}
+
+#sa{
+    padding-right: 40px;
+}
